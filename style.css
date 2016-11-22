@@ -1,0 +1,44 @@
+.degrade {
+    background-image: radial-gradient(red, blue);
+}
+
+.degrade1 {
+    background-image: linear-gradient(red, blue);
+}
+
+.presentation {
+    width: 500px;
+}
+
+.blocking {
+    width:300px;
+    border-width:3px ;
+    border-style:double ;
+    border-color: red;
+}
+
+body {
+    background-color: LightSteelBlue;
+    text-align: center;
+    font-family: cursive;
+    font-family: "Time New Romans";
+    position: relative;
+}
+
+h1 {
+    color : White;
+    text-decoration: underline;
+}
+h3 {
+    text-align: left;
+}
+p {
+    text-align: left;   
+}
+
+section#gauche {
+    margin: 0;
+    border: 3px yellow;
+    position: absolute;
+    left: 0;
+}
